@@ -1,9 +1,4 @@
-Welcome to your Appcelerator Titanium Mobile Project
-
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
+This app shows how to correctly load drawables for both iOS and Android.
 
 ----------------------------------
 Stuff our legal folk make us say:
